@@ -1,0 +1,23 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore build files
+build/
+dist/
+*.spec
+*.exe
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
