@@ -2,7 +2,7 @@
 
 A lightweight floating dictionary app built using Python and Tkinter. It shows word meanings via clipboard text or manual search — with a simple floating icon and hotkeys.
 
-![App Screenshot](https://github.com/Anuj-003/dictionary-floater/assets/your-screenshot.png) <!-- (Optional if you upload screenshot) -->
+![App Screenshot](https://github.com/Anuj-003/dictionary-floater/your-screenshot.png) <!-- (Optional if you upload screenshot) -->
 
 ---
 
