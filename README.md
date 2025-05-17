@@ -36,7 +36,7 @@ A lightweight floating dictionary app built using Python and Tkinter. It shows w
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Anuj-003/dictionary-floater.git
+git clone https://github.com/Anuj-33/dictionary-floater.git
 cd dictionary-floater
 
 # 2. Install dependencies
